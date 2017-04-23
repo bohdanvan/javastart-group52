@@ -5,6 +5,8 @@ Prog.kiev.ua. Java Start. Группа 52
 
 [Java Start. Богдан. Группа 52. Лекции 1-2 (15.04.2017)](https://prog.kiev.ua/forum/index.php/topic,2875.0.html)
 
+[Java Start. Богдан. Группа 52. Лекции 3-4 (22.04.2017)](https://prog.kiev.ua/forum/index.php/topic,2885.0.html)
+
 ## Видео лекций предыдущих групп
 
 [Видеозапись лекций](https://mega.nz/#F!SRclnQQT)
